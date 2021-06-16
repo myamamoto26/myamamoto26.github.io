@@ -1,0 +1,1 @@
+# myamamoto26.github.io
