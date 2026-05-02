@@ -1,8 +1,9 @@
-<!-- ---
+---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-02-19
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
+DES Y6 results desribed in 
+<a href="https://trinity.duke.edu/news/duke-scientists-help-sharpen-picture-changing-universe">Duke article</a>
