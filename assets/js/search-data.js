@@ -409,11 +409,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-dark-energy-survey-year-6-3x2pt-cosmology-reuslts-webinar",
-          title: 'Dark Energy Survey Year-6 3x2pt Cosmology reuslts webinar',
+            },},{id: "news-dark-energy-survey-year-6-3x2pt-legacy-cosmology-results-webinar",
+          title: 'Dark Energy Survey Year-6 3x2pt Legacy Cosmology Results webinar',
           description: "",
-          section: "News",},{id: "news-des-y6-results-desribed-in-duke-article",
-          title: 'DES Y6 results desribed in  Duke article',
+          section: "News",},{id: "news-des-year-6-duke-researchers-help-sharpen-our-picture-of-the-universe-s-expansion-using-weak-gravitational-lensing-article-link",
+          title: 'DES Year 6: Duke researchers help sharpen our picture of the universe’s expansion...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
