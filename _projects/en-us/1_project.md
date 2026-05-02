@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Dark Energy Survey Y6 Shape Catalog
 description: 
-img: assets/img/12.jpg
+img: assets/img/desy6_shapes.jpg
 importance: 1
 category: work
 related_publications: true

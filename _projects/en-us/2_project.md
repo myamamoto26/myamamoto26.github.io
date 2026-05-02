@@ -3,8 +3,8 @@ page_id: project_2
 layout: page
 title: Dark Energy Survey Y6 Cosmic Shear
 description: 
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/desy6_cosmicshear.jpg
+importance: 1
 category: work
 related_publications: true
 ---
