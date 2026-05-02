@@ -3,14 +3,13 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate, Department of Astrophysical Sciences, Princeon University
+subtitle: Postdoctoral Research Associate, Department of Astrophysical Sciences, Princeton University
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Princeton, NJ, 08544</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +34,11 @@ I am interested in utilizing large data sets like astronomical images/catalogs a
 ## Research Interest  
 * Weak Gravitational Lensing Cosmology
 
+Observe hundreds of millions of galaxies' shapes that are distorted by the large-scale structure, and understand the total matter distribution between those distant galaxies and us to learn about the nature of dark matter and dark energy. 
+
 * Baryonic Feedback
+
+Observe how gas in the halo is redistributed within and beyond the halo due to supernovae adn AGN feedback through multi-wavelength observables such as X-ray and CMB secondaries. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

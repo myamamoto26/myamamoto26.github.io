@@ -1,0 +1,17 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for content in data[1] %}
+    <li class="list-group-item">
+      <h6 class="title font-weight-bold ml-1 ml-md-4">{{ content.organization }}</h6>
+      <ul class="items">
+        {% for role in content.roles %}
+          <li class="ml-1 ml-md-4" style="font-size: 0.95rem">
+            {{ role.title }}
+            {% if role.startDate %}
+              <span style="color: #888; font-size: 0.85rem">({{ role.startDate }}–{{ role.endDate | default: "Present" }})</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
