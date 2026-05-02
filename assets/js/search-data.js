@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/projects/";
@@ -422,14 +422,14 @@ ninja.data = [{
           section: "News",},{id: "news-des-year-6-duke-researchers-help-sharpen-our-picture-of-the-universe-s-expansion-using-weak-gravitational-lensing-article-link",
           title: 'DES Year 6: Duke researchers help sharpen our picture of the universe’s expansion...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-dark-energy-survey-y6-shape-catalog",
+          title: 'Dark Energy Survey Y6 Shape Catalog',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-dark-energy-survey-y6-cosmic-shear",
+          title: 'Dark Energy Survey Y6 Cosmic Shear',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
