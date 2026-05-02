@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-DES Y6 results desribed in 
-<a href="https://trinity.duke.edu/news/duke-scientists-help-sharpen-picture-changing-universe">Duke article</a>
+DES Year 6: Duke researchers help sharpen our picture of the universe's expansion using weak gravitational lensing
+<a href="https://trinity.duke.edu/news/duke-scientists-help-sharpen-picture-changing-universe">article link</a>
