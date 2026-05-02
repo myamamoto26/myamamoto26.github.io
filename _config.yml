@@ -7,7 +7,7 @@ first_name: Masaya
 middle_name: 
 last_name: Yamamoto
 keywords: weak gravitational lensing # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://myamamoto26.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
