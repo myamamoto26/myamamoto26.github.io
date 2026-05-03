@@ -422,26 +422,21 @@ ninja.data = [{
           section: "News",},{id: "news-des-year-6-duke-researchers-help-sharpen-our-picture-of-the-universe-s-expansion-using-weak-gravitational-lensing-article-link",
           title: 'DES Year 6: Duke researchers help sharpen our picture of the universe’s expansion...',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
+          section: "News",},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-benchmarking-kinetic-sz-effects-as-probes-of-baryonic-feedback",
+          title: 'Benchmarking kinetic SZ effects as probes of baryonic feedback',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/baryon_ksz/";
+            },},{id: "projects-mitigating-the-impact-of-intrinsic-alignment-and-baryonic-feedback-in-des-y6",
+          title: 'Mitigating the impact of intrinsic alignment and baryonic feedback in DES Y6',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/desy6_blueshear/";
             },},{id: "projects-dark-energy-survey-y6-cosmic-shear",
           title: 'Dark Energy Survey Y6 Cosmic Shear',
           description: "",
@@ -462,6 +457,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/roman_metacal/";
+            },},{id: "projects-exploring-the-baryonic-feedback-through-the-cross-correlation-of-cosmic-shear-and-thermal-sz-effect",
+          title: 'Exploring the baryonic feedback through the cross-correlation of cosmic shear and thermal SZ...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shearxtsz/";
             },},{id: "projects-weather-forecast-and-climate-modeling-using-ml-ai",
           title: 'Weather Forecast and Climate Modeling using ML/AI',
           description: "Exploring weather forecasting and climate modeling with machine learning and the ClimaX foundation model",
