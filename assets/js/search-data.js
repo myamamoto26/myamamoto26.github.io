@@ -467,6 +467,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dark-energy-survey-y6-cosmic-shear",
+          title: 'Dark Energy Survey Y6 Cosmic Shear',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/desy6_cosmicshear/";
+            },},{id: "projects-dark-energy-survey-y6-shape-catalog",
+          title: 'Dark Energy Survey Y6 Shape Catalog',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/desy6_shapes/";
+            },},{id: "projects-image-combination-for-roman-space-telescope",
+          title: 'Image Combination for Roman Space Telescope',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/roman_imcom/";
+            },},{id: "projects-shape-measurement-on-simulated-roman-images",
+          title: 'Shape Measurement on Simulated Roman Images',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/roman_metacal/";
+            },},{id: "projects-weather-forecast-and-climate-modeling-using-ml-ai",
+          title: 'Weather Forecast and Climate Modeling using ML/AI',
+          description: "Exploring weather forecasting and climate modeling with machine learning and the ClimaX foundation model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/weather_forecast/";
             },},{
         id: 'social-cv',
         title: 'CV',
