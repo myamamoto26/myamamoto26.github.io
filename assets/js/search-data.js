@@ -422,17 +422,7 @@ ninja.data = [{
           section: "News",},{id: "news-des-year-6-duke-researchers-help-sharpen-our-picture-of-the-universe-s-expansion-using-weak-gravitational-lensing-article-link",
           title: 'DES Year 6: Duke researchers help sharpen our picture of the universe’s expansion...',
           description: "",
-          section: "News",},{id: "projects-shape-measurement-on-simulated-roman-images",
-          title: 'Shape Measurement on Simulated Roman Images',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-weather-forecast-and-climate-modeling-using-ml-ai",
-          title: 'Weather Forecast and Climate Modeling using ML/AI',
-          description: "Exploring weather forecasting and climate modeling with machine learning and the ClimaX foundation model",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -442,11 +432,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-image-combination-for-roman-space-telescope",
-          title: 'Image Combination for Roman Space Telescope',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
