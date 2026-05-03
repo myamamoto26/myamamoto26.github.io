@@ -12,7 +12,7 @@ profile:
   more_info: >
 
 selected_papers:
-  enabled: true # includes a list of papers marked as "selected={true}"
+  enabled: false # includes a list of papers marked as "selected={true}"
   scrollable: true # adds a vertical scroll bar
   limit: 3 # leave blank or set 0 to include all selected papers
 social: true # includes social icons at the bottom of the page
