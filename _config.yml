@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Masaya Yamamoto (山本　将也) # the website title (if blank, full name will be used instead)
+title: Masaya Yamamoto (山本将也) # the website title (if blank, full name will be used instead)
 first_name: Masaya
 middle_name: 
-last_name: Yamamoto
+last_name: Yamamoto (山本将也)
 keywords: weak gravitational lensing # add your own keywords or leave empty
 icon: 🔭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
