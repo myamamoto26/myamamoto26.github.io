@@ -422,17 +422,7 @@ ninja.data = [{
           section: "News",},{id: "news-des-year-6-duke-researchers-help-sharpen-our-picture-of-the-universe-s-expansion-using-weak-gravitational-lensing-article-link",
           title: 'DES Year 6: Duke researchers help sharpen our picture of the universe’s expansion...',
           description: "",
-          section: "News",},{id: "projects-dark-energy-survey-y6-shape-catalog",
-          title: 'Dark Energy Survey Y6 Shape Catalog',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-dark-energy-survey-y6-cosmic-shear",
-          title: 'Dark Energy Survey Y6 Cosmic Shear',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-shape-measurement-on-simulated-roman-images",
+          section: "News",},{id: "projects-shape-measurement-on-simulated-roman-images",
           title: 'Shape Measurement on Simulated Roman Images',
           description: "",
           section: "Projects",handler: () => {
