@@ -4,7 +4,7 @@ layout: page
 title: Shape Measurement on Simulated Roman Images
 description:
 img: assets/img/roman_shapes.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-You can find the latest publication list on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/a8B2fNJ9RzOr5kMa580SEw).
+<!-- You can find the latest publication list on [NASA/ADS]().-->
 
 <!-- _pages/publications.md -->
 <!-- _pages/publications.md -->
