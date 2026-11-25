@@ -12,6 +12,12 @@ nav_order: 6
 
 #### Conferences
 
+- **Parallel Session**: _Dark Energy Survey Year-6 Pixels-to-Cosmology with Weak Lensing_ — August 2026,
+  COSMO26 @ Leiden, Netherlands
+
+- **Contributed Talk**: _Dark Energy Survey Year-6 Pixels-to-Cosmology with Weak Lensing_ — July 2026,
+  Gravitational Lensing at the turning point: Current Discoveries, New Frontiers @ Sesto, Italy
+
 - **Splinter Session**: _The Legacy Cosmological Constraints from Weak Lensing and Galaxy Clustering in DES_ — January 2026,
   AAS 247th Meeting
 
