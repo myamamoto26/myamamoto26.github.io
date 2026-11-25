@@ -65,7 +65,10 @@
     },
     {
       "organization": "LSST Dark Energy Science Collaboration (DESC)",
-      "roles": [{ "title": "Pixels-to-Object Working Group Co-Convener", "startDate": "2026", "endDate": "Current" }, { "title": "Weak Lensing & Large-scale Structure Working Group" }]
+      "roles": [
+        { "title": "Pixels-to-Object Working Group Co-Convener", "startDate": "2026", "endDate": "Current" },
+        { "title": "Weak Lensing & Large-scale Structure Working Group" }
+      ]
     }
   ],
   "awards": [],
