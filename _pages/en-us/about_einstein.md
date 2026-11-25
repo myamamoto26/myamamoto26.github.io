@@ -1,8 +1,8 @@
-Hi! I’m Masa! 
+Hi! I’m Masa!
 I am a Postdoctoral Research Associate at Princeton University (PI: Alexandra Amon), and
-I’ve recently obtained my Ph.D. in astrophysics/observational cosmology from Duke University (PI: Michael Troxel). 
+I’ve recently obtained my Ph.D. in astrophysics/observational cosmology from Duke University (PI: Michael Troxel).
 
-I am interested in utilizing large data sets like astronomical images/catalogs and extracting cosmological information such as the nature of dark matter and dark energy through weak gravitational lensing. I am part of worldwide scientific collaborations like Dark Energy Survey (DES) and Legacy Survey of Space and Time Dark Energy Science Collaboration (LSST DESC). 
+I am interested in utilizing large data sets like astronomical images/catalogs and extracting cosmological information such as the nature of dark matter and dark energy through weak gravitational lensing. I am part of worldwide scientific collaborations like Dark Energy Survey (DES) and Legacy Survey of Space and Time Dark Energy Science Collaboration (LSST DESC).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

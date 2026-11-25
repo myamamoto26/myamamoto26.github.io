@@ -13,7 +13,7 @@
       "url": "https://web.astro.princeton.edu/",
       "startDate": "2024.9",
       "endDate": "Current"
-    }, 
+    },
     {
       "name": "Department of Physics, Duke University",
       "position": "Research Assistant",
@@ -32,9 +32,9 @@
       "startDate": "2019.8",
       "endDate": "2024.5",
       "score": "10",
-      "supervisor": "Supervisor: <a href=\"https://scholars.duke.edu/person/michael.troxel\">Prof. Michael Troxel</a>", 
+      "supervisor": "Supervisor: <a href=\"https://scholars.duke.edu/person/michael.troxel\">Prof. Michael Troxel</a>",
       "thesis": "Thesis: <a href=\"https://lss.fnal.gov/archive/thesis/2000/fermilab-thesis-2024-25.pdf\">Unfolding Structure Formation in the Dark Universe via Weak Gravitational Lensing: from Pixels to Cosmology in the Dark Energy Survey and Roman Space Telescope</a>"
-    }, 
+    },
     {
       "institution": "Boston University, Massachusetts, USA",
       "location": "Massachusetts, USA",
@@ -44,7 +44,7 @@
       "startDate": "2015.8",
       "endDate": "2019.5",
       "score": "10",
-      "supervisor": "Supervisor: <a href=\"https://www.bu.edu/astronomy/profile/tereasa-brainerd/\">Prof. Tereasa Brainerd</a>", 
+      "supervisor": "Supervisor: <a href=\"https://www.bu.edu/astronomy/profile/tereasa-brainerd/\">Prof. Tereasa Brainerd</a>",
       "thesis": "Thesis: <a>Satellite galaxies in the Illustris-1 simulation: anisotropic locations around relatively isolated hosts</a>"
     }
   ],
@@ -65,14 +65,10 @@
     },
     {
       "organization": "LSST Dark Energy Science Collaboration (DESC)",
-      "roles": [
-        { "title": "Pixels-to-Object Working Group" },
-        { "title": "Weak Lensing & Large-scale Structure Working Group" }
-      ]
+      "roles": [{ "title": "Pixels-to-Object Working Group" }, { "title": "Weak Lensing & Large-scale Structure Working Group" }]
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "publications": [
     {
       "name": "Dark Energy Survey Year 6 Results: Cosmological Constraints from Cosmic Shear",
@@ -241,6 +237,5 @@
       "icon": ""
     }
   ],
-  "projects": [
-  ]
+  "projects": []
 }
