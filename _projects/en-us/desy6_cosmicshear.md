@@ -2,7 +2,7 @@
 page_id: desy6_cosmicshear
 layout: page
 title: Dark Energy Survey Y6 Cosmic Shear
-description: 
+description:
 img: assets/img/desy6_cosmicshear.jpg
 importance: 1
 category: work
